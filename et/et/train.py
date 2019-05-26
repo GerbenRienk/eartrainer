@@ -1,6 +1,6 @@
 '''
 Created on 3 jun. 2017
-Modified  20180306
+Modified  20190526
 @author: GerbenRienk
 '''
 from midiutil import MIDIFile
